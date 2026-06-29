@@ -48,6 +48,8 @@ These guidelines direct the **Structural Review Agent** to evaluate overall cour
 - [ ] All modules have consistent naming and versioning.
 - [ ] Up‑to‑date references to LLM models and APIs.
 - [ ] Taxonomy categories are accurate and complete.
+- [ ] Root metadata.json includes a valid "curriculum" manifest mapping all modules and lessons.
+- [ ] Companion files (.md and .ipynb) for the same lesson are properly paired in the "modes" schema of metadata.json rather than listed as duplicate standalone lessons.
 ```
 
 ### Learner Experience & Onboarding
