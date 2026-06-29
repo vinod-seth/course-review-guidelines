@@ -68,6 +68,9 @@ These guidelines direct the **Structural Review Agent** to evaluate overall cour
 - [ ] Capstone/final project includes a self-assessment rubric with measurable success criteria (e.g., cost, latency, output accuracy).
 - [ ] Each module has at least one exercise with a verifiable expected output.
 - [ ] Grading criteria are transparent — students know what "good" looks like before they start.
+- [ ] Every lesson includes a production-grade interview question suite mapped under modes.interview in metadata.json.
+- [ ] Interview question text is generic and authentic, containing zero mentions of chapter numbers, module prefixes, or file names.
+- [ ] Each experience tier (junior, mid_level, senior) in the interview suite contains multiple questions (minimum 2–3 questions per tier).
 ```
 
 ### Competitive Differentiation
