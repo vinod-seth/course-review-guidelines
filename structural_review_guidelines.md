@@ -50,6 +50,7 @@ These guidelines direct the **Structural Review Agent** to evaluate overall cour
 - [ ] Taxonomy categories are accurate and complete.
 - [ ] Root metadata.json includes a valid "curriculum" manifest mapping all modules and lessons.
 - [ ] Companion files (.md and .ipynb) for the same lesson are properly paired in the "modes" schema of metadata.json rather than listed as duplicate standalone lessons.
+- [ ] Python notebook lessons include a valid "Open in Colab" launch badge link at the top of the lesson file for zero-friction browser execution.
 ```
 
 ### Learner Experience & Onboarding
